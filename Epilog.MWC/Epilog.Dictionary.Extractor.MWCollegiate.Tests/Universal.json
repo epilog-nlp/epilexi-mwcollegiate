@@ -1,0 +1,179 @@
+[
+  {
+    "meta": {
+      "id": "universal:1",
+      "uuid": "d7731213-0237-42ce-91ca-022103a90b79",
+      "sort": "211565000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [ "universal", "universally", "universalness", "universalnesses" ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "uni*ver*sal",
+      "prs": [
+        {
+          "mw": "\u02ccy\u00fc-n\u0259-\u02c8v\u0259r-s\u0259l",
+          "sound": {
+            "audio": "univer01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [ [ "text", "{bc}including or covering all or a whole collectively or distributively without limit or exception" ] ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [ "text", "{bc}available equitably to all members of a society " ],
+                    [
+                      "vis",
+                      [ { "t": "{wi}universal{\/wi} health coverage" } ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [ [ "text", "{bc}present or occurring everywhere" ] ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [ "text", "{bc}existent or operative everywhere or under all conditions " ],
+                  [
+                    "vis",
+                    [ { "t": "{wi}universal{\/wi} cultural patterns" } ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3 a",
+                "dt": [
+                  [ "text", "{bc}embracing a major part or the greatest portion (as of humankind) " ],
+                  [
+                    "vis",
+                    [
+                      { "t": "a {wi}universal{\/wi} state" },
+                      { "t": "{wi}universal{\/wi} practices" }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [ "text", "{bc}comprehensively broad and versatile " ],
+                  [
+                    "vis",
+                    [ { "t": "a {wi}universal{\/wi} genius" } ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4 a",
+                "dt": [ [ "text", "{bc}affirming or denying something of all members of a class or of all values of a variable" ] ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [ "text", "{bc}denoting every member of a class " ],
+                  [
+                    "vis",
+                    [ { "t": "a {wi}universal{\/wi} term" } ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "dt": [
+                  [ "text", "{bc}adapted or adjustable to meet varied requirements (as of use, shape, or size) " ],
+                  [
+                    "vis",
+                    [
+                      { "t": "a {wi}universal{\/wi} gear cutter" },
+                      { "t": "a {wi}universal{\/wi} remote control" }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "uni*ver*sal*ly",
+        "prs": [
+          {
+            "mw": "\u02ccy\u00fc-n\u0259-\u02c8v\u0259r-s(\u0259-)l\u0113",
+            "sound": {
+              "audio": "univer02",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adverb"
+      },
+      {
+        "ure": "uni*ver*sal*ness",
+        "prs": [
+          {
+            "mw": "\u02ccy\u00fc-n\u0259-\u02c8v\u0259r-s\u0259l-n\u0259s",
+            "sound": {
+              "audio": "univer03",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "et": [ [ "text", "Middle English, from Anglo-French, from Latin {it}universalis{\/it}, from {it}universum{\/it} universe" ] ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [ "including or covering all or a whole collectively or distributively without limit or exception; especially : available equitably to all members of a society", "present or occurring everywhere", "existent or operative everywhere or under all conditions" ]
+  }
+]

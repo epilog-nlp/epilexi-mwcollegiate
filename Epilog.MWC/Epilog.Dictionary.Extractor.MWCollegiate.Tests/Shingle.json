@@ -1,0 +1,244 @@
+[
+  {
+    "meta": {
+      "id": "shingle:1",
+      "uuid": "c0ecde0e-64c1-4fc5-b3e5-8a3ce09683ce",
+      "sort": "193631000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [ "shingle", "shingles", "shingly" ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "shin*gle",
+      "prs": [
+        {
+          "mw": "\u02c8shi\u014b-g\u0259l",
+          "sound": {
+            "audio": "shingl01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [ [ "text", "{bc}a small thin piece of building material often with one end thicker than the other for laying in overlapping rows as a covering for the roof or sides of a building" ] ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [ "text", "{bc}a small signboard especially designating a professional office " ],
+                  [
+                    "uns",
+                    [ [ [ "text", "used chiefly in the phrase {it}hang out one\u0027s shingle{\/it}" ] ] ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [ [ "text", "{bc}a woman\u0027s haircut with the hair trimmed short from the back of the head to the nape" ] ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [ [ "text", "Middle English {it}schingel{\/it}, alteration of Old English {it}scindel{\/it}, from Medieval Latin {it}scindula{\/it}, alteration of Latin {it}scandula{\/it}" ] ],
+    "date": "13th century{ds||1||}",
+    "shortdef": [ "a small thin piece of building material often with one end thicker than the other for laying in overlapping rows as a covering for the roof or sides of a building", "a small signboard especially designating a professional office \u2014used chiefly in the phrase hang out one\u0027s shingle", "a woman\u0027s haircut with the hair trimmed short from the back of the head to the nape" ]
+  },
+  {
+    "meta": {
+      "id": "shingle:2",
+      "uuid": "fdbc0b40-74b4-424d-8590-678bcdbcc335",
+      "sort": "193632000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [ "shingle", "shingled", "shingler", "shinglers", "shingles", "shingling" ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": { "hw": "shingle" },
+    "fl": "verb",
+    "ins": [
+      { "if": "shin*gled" },
+      {
+        "if": "shin*gling",
+        "prs": [
+          {
+            "mw": "\u02c8shi\u014b-g(\u0259-)li\u014b",
+            "sound": {
+              "audio": "shingl02",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [ [ "text", "{bc}to cover with or as if with {a_link|shingles}" ] ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [ [ "text", "{bc}to bob and shape (the hair) in a shingle" ] ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [ [ "text", "{bc}to lay out or arrange so as to overlap" ] ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "shin*gler",
+        "prs": [
+          {
+            "mw": "\u02c8shi\u014b-g(\u0259-)l\u0259r",
+            "sound": {
+              "audio": "shingl03",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "date": "1562{ds||1||}",
+    "shortdef": [ "to cover with or as if with shingles", "to bob and shape (the hair) in a shingle", "to lay out or arrange so as to overlap" ]
+  },
+  {
+    "meta": {
+      "id": "shingle:3",
+      "uuid": "0a708cff-6eea-4d54-8a0d-d7abfb5ed656",
+      "sort": "193633000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [ "shingle", "shingles", "shingly" ],
+      "offensive": false
+    },
+    "hom": 3,
+    "hwi": { "hw": "shingle" },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [ [ "text", "{bc}coarse rounded detritus or alluvial material especially on the seashore that differs from ordinary gravel only in the larger size of the stones" ] ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [ [ "text", "{bc}a place strewn with shingle" ] ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "shin*gly",
+        "prs": [
+          {
+            "mw": "\u02c8shi\u014b-g(\u0259-)l\u0113",
+            "sound": {
+              "audio": "shingl04",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "et": [ [ "text", "Middle English {it}chyngell{\/it}; akin to Middle Low German {it}singel{\/it} seashore gravel" ] ],
+    "date": "15th century{ds||1||}",
+    "shortdef": [ "coarse rounded detritus or alluvial material especially on the seashore that differs from ordinary gravel only in the larger size of the stones", "a place strewn with shingle" ]
+  },
+  {
+    "meta": {
+      "id": "hang out one\u0027s shingle",
+      "uuid": "12eb1231-bf8d-4482-85fe-dc174afefd7d",
+      "sort": "3008058000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [ "hang out one\u0027s shingle", "hang out her shingle", "hang out his shingle", "hang out their shingle" ],
+      "offensive": false
+    },
+    "hwi": { "hw": "hang out one\u0027s shingle" },
+    "fl": "idiom",
+    "def": [
+      {
+        "sls": [ "US", "informal" ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [ "text", "{bc}to start one\u0027s own business especially as a doctor or lawyer " ],
+                  [
+                    "vis",
+                    [ { "t": "She graduated from law school and {it}hung out her shingle{\/it}." } ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [ "to start one\u0027s own business especially as a doctor or lawyer" ]
+  }
+]

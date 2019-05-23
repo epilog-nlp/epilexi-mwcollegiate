@@ -1,0 +1,137 @@
+[
+  {
+    "meta": {
+      "id": "prerogative",
+      "uuid": "21ce5f9e-9966-4b02-9709-b866460900bb",
+      "sort": "162153000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [ "prerogative", "prerogatived", "prerogatives" ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "pre*rog*a*tive",
+      "prs": [
+        {
+          "mw": "pri-\u02c8r\u00e4-g\u0259-tiv",
+          "sound": {
+            "audio": "prerog01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "pseq",
+              [
+                [
+                  "bs",
+                  {
+                    "sense": {
+                      "sn": "1 a",
+                      "dt": [ [ "text", "{bc}an exclusive or special right, power, or {d_link|privilege|privilege:1}: such as" ] ]
+                    }
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(1)",
+                    "dt": [ [ "text", "{bc}one belonging to an office or an official body" ] ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [ [ "text", "{bc}one belonging to a person, group, or class of individuals" ] ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(3)",
+                    "dt": [ [ "text", "{bc}one possessed by a nation as an attribute of {d_link|sovereignty|sovereignty}" ] ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [ [ "text", "{bc}the discretionary power {d_link|inhering|inhere} in the British Crown" ] ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [ [ "text", "{bc}a distinctive excellence" ] ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "pre*rog*a*tived",
+        "prs": [
+          {
+            "mw": "pri-\u02c8r\u00e4-g\u0259-tivd",
+            "sound": {
+              "audio": "prerog02",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "quotes": [
+      {
+        "t": "That sense that the future may not last for long is often assumed to be a {qword}prerogative{\/qword} of youth, the dialectical complement of another misconception the young are noted for\u2014the conviction that they are immortal.",
+        "aq": {
+          "auth": "Thomas M. Disch",
+          "source": "{it}Atlantic{\/it}",
+          "aqdate": "February 1992"
+        }
+      },
+      {
+        "t": "More important than any of this, he offered himself as an incarnation of constitutional propriety so that, temperamentally stubborn, he was careful never to exceed the limits of a {qword}prerogative{\/qword} overexploited by the later Stuarts.",
+        "aq": {
+          "auth": "Simon Schama",
+          "source": "{it}The Embarrassment of Riches{\/it}",
+          "aqdate": "1988"
+        }
+      },
+      {
+        "t": "The secularization of the Presidency is indispensable for the reassertion of congressional and popular {qword}prerogative{\/qword}.",
+        "aq": {
+          "auth": "Arthur M. Schlesinger, Jr.",
+          "source": "{it}The Cycles of American History{\/it}",
+          "aqdate": "1986"
+        }
+      }
+    ],
+    "et": [
+      [ "text", "Middle English {it}prerogatif, prerogative,{\/it} borrowed from Anglo-French, borrowed from Latin {it}praerog\u0101t\u012bva{\/it} \u0022the Roman century on which the lot fell to vote first, the verdict of that century (seen as predicting the outcome of the whole vote), omen, prior choice, prior right or claim,\u0022 (short for {it}centuria praerog\u0101t\u012bva{\/it} \u0022century voting first\u0022), from feminine of {it}praerog\u0101t\u012bvus{\/it} \u0022appointed by lot to vote first,\u0022 from {it}prae-{\/it} {et_link|pre-|pre-} + {it}rog\u0101tus,{\/it} past participle of {it}rog\u0101re{\/it} \u0022to ask, ask (an assembly for a decision)\u0022 + {it}-\u012bvus{\/it} {et_link|-ive|-ive} {ma}{mat|rogation|}{\/ma}" ],
+      [
+        "et_snote",
+        [ [ "t", "Latin {it}praerog\u0101t\u012bvus{\/it} was probably formed in the manner indicated, rather than as a derivative of {it}praerog\u0101re{\/it} \u0022to ask or propose beforehand, pay in advance,\u0022 not attested before the 4th century {sc}A.D.{\/sc}" ] ]
+      ]
+    ],
+    "date": "15th century{ds||1|a|}",
+    "shortdef": [ "an exclusive or special right, power, or privilege: such as", "one belonging to an office or an official body", "one belonging to a person, group, or class of individuals" ]
+  }
+]
