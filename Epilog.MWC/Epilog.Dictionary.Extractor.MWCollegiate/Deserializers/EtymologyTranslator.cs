@@ -32,13 +32,7 @@ namespace Epilog.Extractor.Deserializers
                                          .Select(subArray => subArray.ParseNextAsString())
                                          .ToList();
 
-        internal static Etymology GetEtymology(this List<JArray> source)
-        {
-            var result = new Etymology();
-            source.Where(a => conversions.ContainsKey(a[0].Value<string>())) // First element corresponds to delegate dictionary key
-                  .ToList()
-                  .ForEach(array => conversions[array[0].Value<string>()](result, array)); // Invoke delegates
-            return result;
-        }
+        public static Etymology GetEtymology(this IEnumerable<JArray> source) 
+            => source.ApplyConversions(conversions);
     }
 }

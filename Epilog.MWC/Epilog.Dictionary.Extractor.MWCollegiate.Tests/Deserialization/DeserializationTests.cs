@@ -9,7 +9,7 @@ using System.Linq;
 namespace Epilog.Extractor.Tests
 {
     using Models;
-   
+    using Deserializers;
 
     [TestClass]
     public class DeserializationTests
@@ -28,7 +28,17 @@ namespace Epilog.Extractor.Tests
         [TestMethod]
         public void Initialize_Test() 
         {
-            var a = sources.ToList();
+            _ = sources.ToList();
+        }
+
+        [TestMethod]
+        public void SenseSequenceTest()
+        {
+            var prero = sources["Prerogative"].Single();
+            Assert.IsNotNull(prero);
+            var def = prero.Def.Single();
+            var sseq = def.Sseq.GetSenseSequence();
+            Assert.AreEqual(6, sseq.Senses.Count());
         }
     }
 }

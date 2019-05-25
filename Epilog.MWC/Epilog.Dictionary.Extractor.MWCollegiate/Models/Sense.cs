@@ -54,11 +54,16 @@ namespace Epilog.Extractor.Models
         /// <summary>
         /// Subject/Status Labels
         /// </summary>
-        public List<string> SlS { get; set; }
+        public List<string> Sls { get; set; }
 
         /// <summary>
         /// Variants
         /// </summary>
         public List<Variant> Vrs { get; set; }
+
+
+        //public List<Sense> SubSenses { get; set; } = new List<Sense>();
+
+        //public string SenseType { get; set; } = "Sense";
     }
 }

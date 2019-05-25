@@ -24,6 +24,6 @@ namespace Epilog.Extractor.Models
         /// <summary>
         /// Sense Sequence
         /// </summary>
-        public List<JArray> Sseq { get; set; }
+        public List<List<JArray>> Sseq { get; set; }
     }
 }
